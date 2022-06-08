@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rahul2309
 - 👀 I’m interested in all
 - 🌱 I’m currently learning all
-- 📫 How to reach me https://rahulchitturi.me
+- 📫 How to reach me https://rahulchitturi.ml
 
 <!---
 Rahul2309/Rahul2309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
